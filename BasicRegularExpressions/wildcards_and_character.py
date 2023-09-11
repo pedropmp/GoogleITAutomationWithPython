@@ -15,5 +15,3 @@ print(re.search(r"cat|dog", "I like cats."))
 print(re.search(r"cat|dog", "I like both dogs and cats."))
 
 print(re.findall(r"cat|dog", "I like both cats and dogs"))
-
-
